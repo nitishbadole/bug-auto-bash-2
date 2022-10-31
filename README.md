@@ -1,0 +1,1 @@
+# bug-auto-bash-2
